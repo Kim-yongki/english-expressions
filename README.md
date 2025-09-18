@@ -3,7 +3,7 @@
 ---
 
 📝 License  
-This material is provided freely for academic & personal use.  
+This material is provided freely for personal use.  
 
 ---
 
